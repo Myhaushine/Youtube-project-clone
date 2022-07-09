@@ -1,0 +1,26 @@
+.color-black {
+    color: #000;
+}
+html {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family:  'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+body {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+/* responsive */
+.grip{
+    width: 100%;
+    max-width: 1250px;
+    margin: 0 auto;
+}
